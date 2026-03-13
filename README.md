@@ -42,6 +42,4 @@ The assistant generates responses **only from official university policy documen
 * Improve retrieval accuracy
 * Deploy the assistant for public access
 
-## Contributors
 
-Developed collaboratively by **Adithya** and **Nikhil Akula**.
